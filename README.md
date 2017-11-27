@@ -9,8 +9,9 @@ Features:
 
 ### How to use
 
-1. You need to locate two libraries *Assembly-CSharp.dll* and *UnityEngine.CoreModule.dll* within your build.
-2. Run 
+1. Download latest release from https://github.com/Agasper/asert-unity-protect-obfuscator/releases
+2. You need to locate two libraries *Assembly-CSharp.dll* and *UnityEngine.CoreModule.dll* within your build.
+3. Run 
 
 ```
 mono ./AsertNet.exe --filename="Assembly-CSharp.dll" \
@@ -19,7 +20,7 @@ mono ./AsertNet.exe --filename="Assembly-CSharp.dll" \
     --antitamper --renameall
 ```
 
-3. Thats all
+4. Thats all
 
 ### For Android builds
 
