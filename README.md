@@ -10,7 +10,7 @@ Features:
 ### How to use
 
 1. Download latest release from https://github.com/Agasper/asert-unity-protect-obfuscator/releases
-2. You need to locate two libraries *Assembly-CSharp.dll* and *UnityEngine.CoreModule.dll* within your build.
+2. You need to locate two libraries *Assembly-CSharp.dll* and *UnityEngine.CoreModule.dll* within your Unity build.
 3. Run 
 
 ```
