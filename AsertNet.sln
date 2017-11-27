@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsertNet", "AsertNet\AsertNet.csproj", "{62ECFF04-3D8E-4A87-A0BF-46904A4936D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsertInject", "AsertInject\AsertInject.csproj", "{B0CCFCF4-F67A-4717-A6D8-AF4B5E244E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62ECFF04-3D8E-4A87-A0BF-46904A4936D0}.Debug|x86.ActiveCfg = Debug|x86
+		{62ECFF04-3D8E-4A87-A0BF-46904A4936D0}.Debug|x86.Build.0 = Debug|x86
+		{62ECFF04-3D8E-4A87-A0BF-46904A4936D0}.Release|x86.ActiveCfg = Release|x86
+		{62ECFF04-3D8E-4A87-A0BF-46904A4936D0}.Release|x86.Build.0 = Release|x86
+		{B0CCFCF4-F67A-4717-A6D8-AF4B5E244E4D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B0CCFCF4-F67A-4717-A6D8-AF4B5E244E4D}.Debug|x86.Build.0 = Debug|Any CPU
+		{B0CCFCF4-F67A-4717-A6D8-AF4B5E244E4D}.Release|x86.ActiveCfg = Release|Any CPU
+		{B0CCFCF4-F67A-4717-A6D8-AF4B5E244E4D}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
